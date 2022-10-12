@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="79869007871611101758fe68dabb3538" extends="cmdb_ci_appl" label="test240" max_length="40" name="x_483519_test24_test240" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Test24" max_length="20" name="test24" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Test123" max_length="40" name="test123" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

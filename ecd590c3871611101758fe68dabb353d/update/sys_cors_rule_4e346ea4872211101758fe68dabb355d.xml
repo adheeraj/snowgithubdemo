@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cors_rule">
+    <sys_cors_rule action="INSERT_OR_UPDATE">
+        <delete>false</delete>
+        <domain>http://localhost:3000</domain>
+        <exposed_headers>X-UserToken</exposed_headers>
+        <get>true</get>
+        <max_age>0</max_age>
+        <name>Cors Test</name>
+        <patch>false</patch>
+        <post>true</post>
+        <put>false</put>
+        <rest_api>now/table</rest_api>
+        <sys_class_name>sys_cors_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-11 23:47:24</sys_created_on>
+        <sys_id>4e346ea4872211101758fe68dabb355d</sys_id>
+        <sys_name>Cors Test</sys_name>
+        <sys_package display_value="Test24" source="x_483519_test24">ecd590c3871611101758fe68dabb353d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test24">ecd590c3871611101758fe68dabb353d</sys_scope>
+        <sys_update_name>sys_cors_rule_4e346ea4872211101758fe68dabb355d</sys_update_name>
+    </sys_cors_rule>
+</record_update>
